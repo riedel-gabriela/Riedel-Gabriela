@@ -1,7 +1,7 @@
 [![linkedin](https://img.shields.io/badge/-linkedin-0E76A8)](https://www.linkedin.com/in/riedel-gabriela)  
-### Hello and welcome!
-## I'm a fullstack developer who used to be a dentist :sweat_smile:
-## Let's talk about coding!
+## Hello and welcome!
+### I'm a fullstack developer who used to be a dentist :sweat_smile:
+Let's talk about coding!
 <!--
 ### Main Projects
 
