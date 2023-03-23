@@ -4,7 +4,7 @@
 Let's talk about coding!
 
 ### Take a Look:
-* 🛍️ **[Catálogo de Produtos](https://github.com/Riedel-Gabriela/Frontend_project)**: A product catalog made with HTML, CSS and Javascript.
+* 🛍️ **[Product Catalog](https://github.com/Riedel-Gabriela/Frontend_project)**: A product catalog made with HTML, CSS and Javascript.
 * 🏖️ **[Beach Register](https://github.com/Riedel-Gabriela/Backend_project)**: A beach and neighborhood register made with Java and Spring Boot.
 * 🌳 **[Clean Energy Data Treatment](https://github.com/Riedel-Gabriela/ETL_project)**: An ETL project made with Jupyter Notebook and managed in GCP to future data analysis.
 <!--
