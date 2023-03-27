@@ -7,6 +7,8 @@ Let's talk about coding!
 * 🛍️ **[Product Catalog](https://github.com/Riedel-Gabriela/Frontend_project)**: A product catalog made with HTML, CSS and Javascript.
 * 🏖️ **[Beach Register](https://github.com/Riedel-Gabriela/Backend_project)**: A beach and neighborhood register made with Java and Spring Boot.
 * 🌳 **[Clean Energy Data Treatment](https://github.com/Riedel-Gabriela/ETL_project)**: An ETL project made with Jupyter Notebook and managed in GCP to future data analysis.
+* 🦜 **[Pokedex](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana4/exercicio4-semana4)**: A Pokedex API made with HTML, CSS and Javascript.
+
 <!--
 ### Main Projects
 
