@@ -9,7 +9,8 @@ Let's talk about coding!
 * 🌳 **[Clean Energy Data Treatment](https://github.com/Riedel-Gabriela/ETL_project)**: An ETL project made with Jupyter Notebook and managed in GCP to future data analysis.
 * 🦜 **[Pokedex](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana4/exercicio4-semana4)**: A Pokedex project made with HTML, CSS and Javascript.
 * 🌀 **[Rick and Morty API Client](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana4/exercicio5-semana4)**: A characters catalog project made with HTML, CSS and Javascript.
-* 🌍 **[Pageia Tour](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana5/exercicios2a8-semana5/agencia-de-viagem)**: A travel agency homepage/catalog made with React + Vite.
+* 🌍 **[Pageia Tour](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana5/exercicios2a8-semana5/agencia-de-viagem)**: A travel agency homepage/catalog made with React + Vite and jasonserver as database.
+* 🍽️ **[The CookBook](https://github.com/Riedel-Gabriela/LabFoods)**: A personal online cookbook made with React + Vite and localstorage as database.
 
 <!--
 ### Main Projects
