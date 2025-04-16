@@ -5,7 +5,7 @@ Let's talk about coding!
 
 ### Take a Look:
 
-#### Professional Contributions Projects
+#### Contribution to Professional Projects
 * ➡️ **[Parceiros na Cultura (Backend)](https://parceirosnaculturars.com.br/)**: Parceiros na Cultura is an online platform that connects professionals and organizations operating in the cultural sector in Rio Grande do Sul, Brazil.
 * ➡️ **[Lab Lugar (Backend)](https://www.lablugar.com.br/laboratorio)**: Lab Lugar is a creative lab in Imbituba, Brazil, focused on community, craftsmanship, and cultural experimentation.
 
