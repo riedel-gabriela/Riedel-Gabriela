@@ -8,17 +8,12 @@ Let's talk about coding!
 #### Contribution to Professional Projects
 * ➡️ **[Parceiros na Cultura (Backend)](https://parceirosnaculturars.com.br/)**: Parceiros na Cultura is an online platform that connects professionals and organizations operating in the cultural sector in Rio Grande do Sul, Brazil.
 * ➡️ **[Lab Lugar (Backend)](https://www.lablugar.com.br/laboratorio)**: Lab Lugar is a creative lab in Imbituba, Brazil, focused on community, craftsmanship, and cultural experimentation.
+<!--
 
 #### Study Projects
-* 🛍️ **[Product Catalog](https://github.com/Riedel-Gabriela/Frontend_project)**: A product catalog made with HTML, CSS and Javascript.
-* 🏖️ **[Beach Register](https://github.com/Riedel-Gabriela/Backend_project)**: A beach and neighborhood register made with Java and Spring Boot.
-* 🌳 **[Clean Energy Data Treatment](https://github.com/Riedel-Gabriela/ETL_project)**: An ETL project made with Jupyter Notebook and managed in GCP to future data analysis.
-* 🦜 **[Pokedex](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana4/exercicio4-semana4)**: A Pokedex project made with HTML, CSS and Javascript.
-* 🌀 **[Rick and Morty API Client](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana4/exercicio5-semana4)**: A characters catalog project made with HTML, CSS and Javascript.
 * 🌍 **[Pageia Tour](https://github.com/Riedel-Gabriela/FuturoDEV_FrontEnd/tree/main/exercicios-semana5/exercicios2a8-semana5/agencia-de-viagem)**: A travel agency homepage/catalog made with React + Vite and jasonserver as database.
 * 🍽️ **[The CookBook](https://github.com/Riedel-Gabriela/LabFoods)**: A personal online cookbook made with React + Vite and localstorage as database.
 
-<!--
 ### Main Projects
 
 * 🌙 **[Corvo Astral](https://github.com/Markkop/corvo-astral)**: A Discord Bot that collects and provides information about Wakfu MMORPG
